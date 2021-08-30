@@ -1,0 +1,8 @@
+CS472 Lab W1D1 Create a homepage and publish it on a web server.
+Today you will create a home page where you will put all your assignments for the first part of the
+course.
+1. Create your homepage.
+2. Create a github account and publish a test repository.
+3. Create a repository for a github pages website and put your homepage there.
+4. Validate your HTML
+5. Submit your assignment on Sakai
